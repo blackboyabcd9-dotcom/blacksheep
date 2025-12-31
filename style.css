@@ -38,8 +38,8 @@ button {
 }
 
 #gallery img {
-  width: 130%;       /* keeps images responsive */
-  max-width: 150px;  /* limits the size to 150px */
+  width: 100%;       /* keeps images responsive */
+  max-width: 250px;  /* limits the size to 150px */
   border-radius: 12px;
   height: auto;      /* maintain aspect ratio */
 }
@@ -195,4 +195,5 @@ canvas {
     max-width: 90%;   /* images become bigger on mobile */
   }
 }
+
 
